@@ -1,0 +1,44 @@
+# AppDynamics Metric Enpoint URL
+MetricEnpointURL: 
+
+# Tencent API SecretID
+SecretID: 
+
+# Tencent API SecretKey
+SecretKey: 
+
+# Tencent API Region
+Region: 
+
+# TcaplusDB Instance ID and TableInstance ID
+# 1
+InstanceId1: 
+TableInstanceId1: 
+# 2
+InstanceId2: 
+TableInstanceId2: 
+# 3
+InstanceId3: 
+TableInstanceId3: 
+# 4
+InstanceId4: 
+TableInstanceId4: 
+# 5
+InstanceId5: 
+TableInstanceId5: 
+# 6
+InstanceId6: 
+TableInstanceId6: 
+# 7
+InstanceId7: 
+TableInstanceId7: 
+# 8
+InstanceId8: 
+TableInstanceId8: 
+# 9
+InstanceId9: 
+TableInstanceId9: 
+# 10
+InstanceId10: 
+TableInstanceId10: 
+
